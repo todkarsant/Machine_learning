@@ -42,3 +42,4 @@ K-Means is widely used in various applications, including:
 *   Document analysis
 *   Anomaly detection
 *   Recommendation systems
+0.0.1
